@@ -1,0 +1,11 @@
+1 Проектирование архитектуры, участие в команде разработки
+2 От 4х до 8
+3 Laravel, Falcon, Kohana, Самописный
+4 СRM, Продажа билетовб продажа товаров, аггрегатор товаров, админка для МКК
+5 -
+6 Mysql, Postgresql, MariaDB, Vue.js 2, Vuex, Laravel, Kohana, Phalcon, Symfony, Docker, Git, Elastic , HTML, CSS, Git
+7 Автотестирование, Feature тесты
+8 Docker, kubernetes
+9 Dogovor24, Profsalon, Ticketon
+10 -
+11 Mysql, Postgresql, MariaDB, Vue.js 2, Vuex, Laravel, Kohana, Phalcon, Symfony, Docker, Git, Elastic , HTML, CSS, Git
